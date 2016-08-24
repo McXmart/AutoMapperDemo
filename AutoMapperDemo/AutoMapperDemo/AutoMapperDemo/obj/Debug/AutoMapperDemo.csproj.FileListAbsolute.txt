@@ -1,0 +1,14 @@
+E:\项目\测试\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapperDemo.exe.config
+E:\项目\测试\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapperDemo.exe
+E:\项目\测试\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapperDemo.pdb
+E:\项目\测试\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapper.dll
+E:\项目\测试\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\obj\Debug\AutoMapperDemo.csprojResolveAssemblyReference.cache
+E:\项目\测试\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\obj\Debug\AutoMapperDemo.exe
+E:\项目\测试\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\obj\Debug\AutoMapperDemo.pdb
+E:\项目\Demo\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapperDemo.exe.config
+E:\项目\Demo\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\obj\Debug\AutoMapperDemo.exe
+E:\项目\Demo\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\obj\Debug\AutoMapperDemo.pdb
+E:\项目\Demo\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapperDemo.exe
+E:\项目\Demo\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapperDemo.pdb
+E:\项目\Demo\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapper.dll
+E:\项目\Demo\AutoMapperDemo\AutoMapperDemo\AutoMapperDemo\obj\Debug\AutoMapperDemo.csprojResolveAssemblyReference.cache
